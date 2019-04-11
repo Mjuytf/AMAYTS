@@ -1,0 +1,2 @@
+# AMAYTS
+Supositorio con condiciones
